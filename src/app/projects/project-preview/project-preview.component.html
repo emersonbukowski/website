@@ -1,0 +1,15 @@
+<ng-container *ngIf="data$ | async as projectData">
+
+  <div class="thumbnail-container">
+
+    <figure class="image is-square">
+
+      <img [src]="projectData.thumbnail">
+
+    </figure>
+
+  </div>
+
+</ng-container>
+
+

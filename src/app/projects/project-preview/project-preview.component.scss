@@ -1,0 +1,23 @@
+@import "../../../variables";
+
+$border-radius: 5%;
+$border-normal: bulmaDarken($background-light, 5%);
+$border-darker: bulmaDarken($background-light, 15%);
+
+.thumbnail-container {
+  margin: 5px;
+  border-color: $border-normal;
+  background-color: $border-normal;
+  border-style: solid;
+  border-width: thick;
+  border-radius: $border-radius;
+
+  img {
+    border-radius: $border-radius;
+  }
+}
+
+.thumbnail-container:hover {
+  border-color: $border-darker;
+  background-color: $border-darker
+}

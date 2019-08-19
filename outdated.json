@@ -1,0 +1,116 @@
+{
+  "@angular-devkit/build-angular": {
+    "current": "0.901.1",
+    "wanted": "0.901.3",
+    "latest": "0.901.3",
+    "location": "node_modules/@angular-devkit/build-angular"
+  },
+  "@angular/animations": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/animations"
+  },
+  "@angular/cli": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/cli"
+  },
+  "@angular/common": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/common"
+  },
+  "@angular/compiler": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/compiler"
+  },
+  "@angular/compiler-cli": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/compiler-cli"
+  },
+  "@angular/core": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/core"
+  },
+  "@angular/forms": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/forms"
+  },
+  "@angular/language-service": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/language-service"
+  },
+  "@angular/platform-browser": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/platform-browser"
+  },
+  "@angular/platform-browser-dynamic": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/platform-browser-dynamic"
+  },
+  "@angular/router": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/router"
+  },
+  "@angular/service-worker": {
+    "current": "9.1.1",
+    "wanted": "9.1.3",
+    "latest": "9.1.3",
+    "location": "node_modules/@angular/service-worker"
+  },
+  "@types/node": {
+    "current": "13.11.1",
+    "wanted": "13.13.2",
+    "latest": "13.13.2",
+    "location": "node_modules/@types/node"
+  },
+  "jasmine-spec-reporter": {
+    "current": "5.0.1",
+    "wanted": "5.0.2",
+    "latest": "5.0.2",
+    "location": "node_modules/jasmine-spec-reporter"
+  },
+  "karma": {
+    "current": "5.0.1",
+    "wanted": "5.0.2",
+    "latest": "5.0.2",
+    "location": "node_modules/karma"
+  },
+  "marked": {
+    "current": "0.8.2",
+    "wanted": "0.8.2",
+    "latest": "1.0.0",
+    "location": "node_modules/marked"
+  },
+  "protractor": {
+    "current": "5.4.3",
+    "wanted": "5.4.4",
+    "latest": "5.4.4",
+    "location": "node_modules/protractor"
+  },
+  "ts-node": {
+    "current": "8.8.2",
+    "wanted": "8.9.0",
+    "latest": "8.9.0",
+    "location": "node_modules/ts-node"
+  }
+}

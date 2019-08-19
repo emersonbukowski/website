@@ -1,0 +1,36 @@
+@charset "utf-8";
+@import "variables";
+@import "~bulma/bulma";
+
+@import url("https://fonts.googleapis.com/css?family=Roboto|EB+Garamond:wght@700;800&display=swap");
+
+html.is-dark-theme {
+  background-color: $background-dark;
+}
+
+html.is-light-theme {
+  background-color: $background-light;
+}
+
+.instagram-container {
+  max-width: 50vw;
+  overflow: hidden;
+  // Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625)
+  padding-top: 120%;
+  position: relative;
+
+  iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
+
+
+.image.has-margin {
+  margin-left: $image-margin-left;
+  margin-right: $image-margin-right;
+}

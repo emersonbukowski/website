@@ -1,0 +1,20 @@
+$hero-image-horizontal-margin: 5vw;
+$hero-logo-horizontal-margin: 15vw;
+
+section.hero {
+  cursor: pointer;
+
+  div.hero-body {
+    padding: 5px 1.5rem;
+
+    figure.image.hero-image {
+      margin-left: $hero-image-horizontal-margin;
+      margin-right: $hero-image-horizontal-margin;
+    }
+
+    figure.image.hero-logo {
+      margin-left: $hero-logo-horizontal-margin;
+      margin-right: $hero-logo-horizontal-margin;
+    }
+  }
+}

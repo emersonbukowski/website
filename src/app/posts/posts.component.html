@@ -1,0 +1,33 @@
+<app-hero></app-hero>
+
+<app-header></app-header>
+
+<div *ngIf="state$ | async as state" class="columns">
+
+  <div class="column is-2">
+
+    <aside class="menu">
+
+      <ul class="menu-list">
+
+        <li *ngFor="let post of state.posts">
+
+          <a [routerLink]="[post.slug]" routerLinkActive="is-active">
+            {{post.title}}
+          </a>
+
+        </li>
+
+      </ul>
+
+    </aside>
+
+  </div>
+
+  <div class="column is-10">
+
+    <router-outlet></router-outlet>
+
+  </div>
+
+</div>
