@@ -1,0 +1,128 @@
+{
+  "configVersion": 1,
+  "timestamp": 1590101790444,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.83e53301f8b8ec95b678.js",
+        "/main-es5.83e53301f8b8ec95b678.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "/polyfills-es5.9e286f6d9247438cbb02.js",
+        "/runtime-es2015.1eba213af0b233498d9d.js",
+        "/runtime-es5.1eba213af0b233498d9d.js",
+        "/styles.debeebd6a97deee4189b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/acceptable-in-the-80s/thumbnail.png",
+        "/assets/images/hero.svg",
+        "/assets/images/houses/thumbnail.png",
+        "/assets/images/icon.svg",
+        "/assets/images/learning-to-be-a-self-portraiture-zine/thumbnail.png",
+        "/assets/images/musician-portraiture/thumbnail.png",
+        "/assets/images/spaeks/thumbnail.png",
+        "/assets/images/standing-still-a-quarantine-visual-diary/thumbnail.png",
+        "/assets/images/the-lighthouse-series/thumbnail.png",
+        "/assets/images/the-matchbox-project/thumbnail.png",
+        "/assets/images/was-it-for-this-an-exploration-of-the-irish-housing-crisis/thumbnail.png",
+        "/assets/posts/data.json",
+        "/assets/posts/example-blog-1.html",
+        "/assets/posts/example-blog.html",
+        "/assets/projects/acceptable-in-the-80s.html",
+        "/assets/projects/data.json",
+        "/assets/projects/houses.html",
+        "/assets/projects/learning-to-be-a-self-portraiture-zine.html",
+        "/assets/projects/musician-portraiture.html",
+        "/assets/projects/spaeks.html",
+        "/assets/projects/standing-still-a-quarantine-visual-diary.html",
+        "/assets/projects/the-lighthouse-series.html",
+        "/assets/projects/the-matchbox-project.html",
+        "/assets/projects/was-it-for-this-an-exploration-of-the-irish-housing-crisis.html"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "13ece5c402e121ca01dd96e4f67940da5a501cdb",
+    "/assets/icons/icon-144x144.png": "712e6a5ad5c576f034a33c1b2cead1aa19a9e26b",
+    "/assets/icons/icon-152x152.png": "a21bf872c263016a61488943de8c1b9502da9e99",
+    "/assets/icons/icon-192x192.png": "95bd18ffffd360b963294ea99978f56de62f5656",
+    "/assets/icons/icon-384x384.png": "763927cd5277ee6d7cef99e91583c6940cb60cd5",
+    "/assets/icons/icon-512x512.png": "5e5d4a839a2ac884363daefebee4d7219f50597b",
+    "/assets/icons/icon-72x72.png": "5ef3d750bc63384289f24dceaec82402ab8302bc",
+    "/assets/icons/icon-96x96.png": "165e35b39723cd4b3d1d186ea45910a80b0f5f09",
+    "/assets/images/acceptable-in-the-80s/thumbnail.png": "054691877b8c2520180476df486316d165a14564",
+    "/assets/images/hero.svg": "aef1a6475cd56fa8c7c745de6b40a9b32c7c8635",
+    "/assets/images/houses/thumbnail.png": "bde09ee16fe75e79dc314936913859b3457caded",
+    "/assets/images/icon.svg": "4d82dbe78e603514268473ea02c1e6e6d03e9494",
+    "/assets/images/learning-to-be-a-self-portraiture-zine/thumbnail.png": "030d71c7964b229279cacac6a86165ba7d902f29",
+    "/assets/images/musician-portraiture/thumbnail.png": "7adddfa384ac71be813e29e3fb7de39bf998c587",
+    "/assets/images/spaeks/thumbnail.png": "025973b8d9f91bbf1d0143a883ae2f3c3914158e",
+    "/assets/images/standing-still-a-quarantine-visual-diary/thumbnail.png": "5308c8e1b6f8189a70a46aed2d55dab70796bef3",
+    "/assets/images/the-lighthouse-series/thumbnail.png": "be2a54d1e5c470f93a3dbe4639c21e94b5b0789f",
+    "/assets/images/the-matchbox-project/thumbnail.png": "9dc5789b0453783dc2c787a62ff6992d8b8d095c",
+    "/assets/images/was-it-for-this-an-exploration-of-the-irish-housing-crisis/thumbnail.png": "db21bd96777353dc75b2b2774e72c67ac56d94bb",
+    "/assets/posts/data.json": "cbad99864548cb9074061c6dd3c75a49ecb1600f",
+    "/assets/posts/example-blog-1.html": "ac065cf9fedb3593d821756b60f69911f10d0cd1",
+    "/assets/posts/example-blog.html": "3597ea225584ba39c1c53bd5189153b03f9827bf",
+    "/assets/projects/acceptable-in-the-80s.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/projects/data.json": "27feb1325ac25f3431cd1e2f512f083376aafecf",
+    "/assets/projects/houses.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/projects/learning-to-be-a-self-portraiture-zine.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/projects/musician-portraiture.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/projects/spaeks.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/projects/standing-still-a-quarantine-visual-diary.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/projects/the-lighthouse-series.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/projects/the-matchbox-project.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/projects/was-it-for-this-an-exploration-of-the-irish-housing-crisis.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "77a84eb77d35742a32bb60ef827d79c7f5230b5b",
+    "/main-es2015.83e53301f8b8ec95b678.js": "83a4fab48148da9a2e15621a76ebee1667ca6b46",
+    "/main-es5.83e53301f8b8ec95b678.js": "1dabd2e10fb7926aabbca380e3ca56e1c89fa07b",
+    "/manifest.webmanifest": "07a2ba94799b7a64c60845f69b8d231c4acb13b2",
+    "/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/polyfills-es5.9e286f6d9247438cbb02.js": "89222a28dbabb780fc372d33834080e0cd3083d9",
+    "/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.debeebd6a97deee4189b.css": "c7711e565128e22db8fe13c945a04e372a43aa64"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
